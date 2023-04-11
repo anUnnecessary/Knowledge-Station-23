@@ -1,0 +1,13 @@
+.featured-h{
+    text-align: center;
+}
+.featured-p{
+    text-align: center;
+}
+
+.job-container{
+    margin: 50px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 45px;
+}
